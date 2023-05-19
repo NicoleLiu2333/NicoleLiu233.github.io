@@ -57,9 +57,9 @@ career-profile:
     title: Career Profile
     summary: |
       A resourceful problem-solver, self-motivated and disciplined architectural design professional
-      seeks postgraduate study at the Department of Information Systems-Bridge in the Northeastern University.
-      Interested in researches in how artificial intelligence (AI) and Internet of Things (IoT) can contribute 
-      to automated architectural design.
+      seeks postgraduate study at the Department of Information Systems-Bridge in the Northeastern 
+      University.Interested in researches in how artificial intelligence (AI) and Internet of Things (IoT)
+      can contribute to automated architectural design.
 education:
     title: Education
     info:
@@ -99,8 +99,8 @@ experiences:
           Ice Cream Factory of Aixue Group in Petalingan(Philippines).
             -  Lead the design of buildings using various 3D architecture modeling software.
             -  Utilized machine learning to assist with architectural and urban layout research.
-            -  Identified engineering issues within developing projects, collaborated with the team
-          to design solutions.
+            -  Identified engineering issues within developing projects, collaborated with the 
+            team to design solutions.
 # projects:
 #     title: Projects
 #     intro: >
@@ -176,12 +176,18 @@ skills:
       - name: Python 
         level: 98%
 
-      - name: Revit & Rhino Grasshopper
+      - name: Revit 
         level: 99%
-
-      - name: 3D Max & Lumion
+        
+      - name: Rhino Grasshopper
+        level: 99%
+        
+      - name: 3D Max
         level: 95%
-
+        
+      - name: Lumion
+        level: 95%
+        
       - name: Adobe Illustrator
         level: 95%
 
