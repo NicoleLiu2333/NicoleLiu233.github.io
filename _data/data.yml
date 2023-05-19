@@ -88,25 +88,25 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Architectural Designer, Design Center & Design Management
+        time: 2021 - Present
+        company: China State Construction, Shanghai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Projects: The Clark Green City Project (Philippines), Yunnan Revolutionary Military
+          Hall Construction Project Bid, Netease Shanghai International Cultural and Creative
+          Technology Park Project, EPC Project of Liaocheng Hospital Complex at Shandong First
+          Medical University, Xi’an High-tech Zone Chuangzhi Valley Financial Center Project,
+          Ice Cream Factory of Aixue Group in Petalingan(Philippines). 
+          Lead the design of buildings using various 3D architecture modeling software.
+          Utilized machine learning to assist with architectural and urban layout research.
+          Identified engineering issues within developing projects, collaborated with the team
+          to design solutions.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
+#       - role: Senior Software Engineer
+#         time: 2014 - 2015
+#         company: Google, London
+#         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -114,10 +114,10 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
+#       - role: UI Developer
+#         time: 2012 - 2014
+#         company: Amazon, London
+#         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
