@@ -96,11 +96,7 @@ experiences:
           Hall Construction Project Bid, Netease Shanghai International Cultural and Creative 
           Technology Park Project, EPC Project of Liaocheng Hospital Complex at Shandong First
           Medical University, Xi’an High-tech Zone Chuangzhi Valley Financial Center Project, 
-          Ice Cream Factory of Aixue Group in Petalingan(Philippines). 
-          Lead the design of buildings using various 3D architecture modeling software.
-          Utilized machine learning to assist with architectural and urban layout research.
-          Identified engineering issues within developing projects, collaborated with the team
-          to design solutions.
+          Ice Cream Factory of Aixue Group in Petalingan(Philippines).
             - Bullet point Lead the design of buildings using various 3D architecture modeling software.
             - Bullet point Utilized machine learning to assist with architectural and urban layout research.
             - Bullet point Identified engineering issues within developing projects, collaborated with the team
@@ -177,23 +173,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Revit & Rhino Grasshopper
+        level: 99%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: 3D Max & Lumion
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Adobe Illustrator
+        level: 95%
+
+      - name: Premiere Pro CC
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 99%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
