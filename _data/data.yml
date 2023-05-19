@@ -101,9 +101,11 @@ experiences:
           Utilized machine learning to assist with architectural and urban layout research.
           Identified engineering issues within developing projects, collaborated with the team
           to design solutions.
-            - Bullet point
-            - Bullet point
- projects:
+            - Bullet point Lead the design of buildings using various 3D architecture modeling software.
+            - Bullet point Utilized machine learning to assist with architectural and urban layout research.
+            - Bullet point Identified engineering issues within developing projects, collaborated with the team
+          to design solutions.
+projects:
     title: Projects
     intro: >
       You can list your side projects in this
